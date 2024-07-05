@@ -29,7 +29,7 @@ I have extensive knowledge and experience with various web browsers. Here's a li
 
 ## 👀 Follow me because I am super cool
 
-<p align="center">
+<p>
   <a href="https://x.com/gnukeith" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://mastodon.social/@keith684" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
 </p>
