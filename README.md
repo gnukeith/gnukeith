@@ -21,7 +21,7 @@ fn main() {
 
 ## 🛠️ What languages i program in
 
-![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=00FF00&random=false&width=435&lines=Python;HTML;CSS;Javascript;Rust;GO)
+![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=0100&color=00FF00&random=false&width=435&lines=Python;HTML;CSS;Javascript;Rust;GO)
 
 ## 🌐 Browser Expertise
 
