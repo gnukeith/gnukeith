@@ -7,16 +7,17 @@ I'm a security researcher passionate about FOSS.
 ![Twitter Follow](https://img.shields.io/twitter/follow/gnukeith?style=social)
 
 ## 🖼️ About Me
-<p align="center">
-  <img src="https://github.com/gnukeith.png" alt="gnukeith's profile picture" width="200" height="200">
+<p align="left">
+  <img src="https://github.com/gnukeith.png" alt="gnukeith's profile picture" width="200" height="200" style="margin-right: 20px;">
+  <ul>
+    <li>🔭 I’m currently working on [Project]</li>
+    <li>🌱 I’m currently learning [Technology/Skill]</li>
+    <li>👯 I’m looking to collaborate on [Project/Task]</li>
+    <li>💬 Ask me about JavaScript, Python, Rust, Go, HTML, and browsers</li>
+    <li>📫 How to reach me: gnukeith@example.com</li>
+    <li>⚡ Fun fact: I love hiking and outdoor adventures.</li>
+  </ul>
 </p>
-
-- 🔭 I’m currently working on [Project]
-- 🌱 I’m currently learning [Technology/Skill]
-- 👯 I’m looking to collaborate on [Project/Task]
-- 💬 Ask me about JavaScript, Python, Rust, Go, HTML, and browsers
-- 📫 How to reach me: gnukeith@example.com
-- ⚡ Fun fact: I love hiking and outdoor adventures.
 
 ## 🛠️ Skills
 
@@ -38,4 +39,3 @@ I have extensive knowledge and experience with various web browsers. Here's a li
 
 - [Twitter](https://x.com/gnukeith)
 - [Mastodon](https://mastodon.social/@keith684)
-
