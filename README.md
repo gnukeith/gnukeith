@@ -25,11 +25,8 @@ I'm a [security researcher] passionate about [FOSS].
 
 ## 📫 Connect with me
 
-- [Twitter](https://twitter.com/myusername)
-- [LinkedIn](https://linkedin.com/in/myusername)
+- [Twitter](https://x.com/gnukeith)
+- [Mastodon](https://mastodon.social/@keith684)
 
-## 💻 Projects
 
-- [Project 1](https://github.com/myusername/project1)
-- [Project 2](https://github.com/myusername/project2)
 
