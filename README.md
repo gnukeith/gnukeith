@@ -1,6 +1,6 @@
-# Hi there, I'm [gnukeith] 👋
+# Hi there, I'm gnukeith 👋
 
-I'm a [security researcher] passionate about [FOSS]. 
+I'm a security researcher passionate about FOSS.
 
 ![Profile views](https://img.shields.io/github/watchers/gnukeith/gnukeith?label=Profile%20views&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/gnukeith?label=Follow&style=social)
@@ -44,6 +44,4 @@ I'm a [security researcher] passionate about [FOSS].
 
 - [Twitter](https://x.com/gnukeith)
 - [Mastodon](https://mastodon.social/@keith684)
-
-
 
