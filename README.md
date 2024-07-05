@@ -29,7 +29,6 @@ fn main() {
 - **<span style="color:#00FF00">Browser Extensions</span>**: Developing and managing browser extensions for enhanced functionality.
 - **<span style="color:#00FF00">Web Performance</span>**: Optimizing websites for faster load times and better performance.
 - **<span style="color:#00FF00">Cross-Browser Compatibility</span>**: Ensuring websites work seamlessly across different browsers.
-
 ## 📊 GitHub Stats
 
 ![gnukeith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnukeith&show_icons=true&theme=radical&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=0d1117)
