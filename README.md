@@ -1,3 +1,7 @@
+<!-- Include Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+<!-- README.md Content -->
 ![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=00FF00&random=false&width=435&lines=Haiiiii+I'm+gnukeith)
 
 I'm a security researcher passionate about FOSS.
@@ -29,5 +33,5 @@ I have extensive knowledge and experience with various web browsers. Here's a li
 
 ## 📫 Connect with me
 
-- [Twitter](https://x.com/gnukeith)
-- [Mastodon](https://mastodon.social/@keith684)
+- <a href="https://x.com/gnukeith" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>
+- <a href="https://mastodon.social/@keith684" target="_blank"><i class="fab fa-mastodon"></i> Mastodon</a>
