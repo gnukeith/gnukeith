@@ -8,7 +8,7 @@ I'm a security researcher passionate about FOSS.
 
 ## 🖼️ About Me
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=00FF00&random=false&width=435&lines=Haiiiii+I'm+gnukeith)]
+![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=00FF00&random=false&width=435&lines=Haiiiii+I'm+gnukeith)
 
 - 🔭 I’m currently working on [Project]
 - 🌱 I’m currently learning [Technology/Skill]
@@ -19,7 +19,7 @@ I'm a security researcher passionate about FOSS.
 
 ## 🛠️ Skills
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=00FF00&random=false&width=435&lines=Python;HTML;CSS;JS;C%23)]
+![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=00FF00&random=false&width=435&lines=Python;HTML;CSS;JS;C%23)
 
 ## 🌐 Browser Expertise
 
