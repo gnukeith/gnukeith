@@ -25,10 +25,9 @@ fn main() {
 
 ## 🌐 Browser Expertise
 
-- **<span style="color:#00FF00">Browser Security</span>**: Understanding and mitigating browser vulnerabilities.
-- **<span style="color:#00FF00">Browser Extensions</span>**: Developing and managing browser extensions for enhanced functionality.
-- **<span style="color:#00FF00">Web Performance</span>**: Optimizing websites for faster load times and better performance.
-- **<span style="color:#00FF00">Cross-Browser Compatibility</span>**: Ensuring websites work seamlessly across different browsers.
+![Browser Expertise](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=5000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&height=100&lines=Browser+Security:+Understanding+and+mitigating+browser+vulnerabilities;Browser+Extensions:+Developing+and+managing+browser+extensions;Web+Performance:+Optimizing+websites+for+faster+load+times;Cross-Browser+Compatibility:+Ensuring+websites+work+seamlessly)
+
+
 ## 📊 GitHub Stats
 
 ![gnukeith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnukeith&show_icons=true&theme=radical&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=0d1117)
