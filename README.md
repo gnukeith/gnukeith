@@ -25,7 +25,8 @@ I have extensive knowledge and experience with various web browsers. Here's a li
 
 ## 📊 GitHub Stats
 
-![gnukeith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnukeith&show_icons=true&theme=radical)
+![Kittinan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&title_color=white&icon_color=green&text_color=white&bg_color=0d1117)
+
 
 ## 👀 Follow me because I am super cool
 
