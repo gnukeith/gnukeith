@@ -2,7 +2,9 @@
 
 I'm a [security researcher] passionate about [FOSS]. 
 
-![Profile views](https://gpvc.arturio.dev/gnukeith)
+![Profile views](https://img.shields.io/github/watchers/gnukeith/gnukeith?label=Profile%20views&style=social)
+![GitHub followers](https://img.shields.io/github/followers/gnukeith?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/gnukeith?style=social)
 
 ## 🚀 About Me
 
