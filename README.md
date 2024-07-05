@@ -25,9 +25,10 @@ fn main() {
 
 ## 🌐 Browser Expertise
 
-![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=100&color=00FF00&width=435&lines=-+**Browser+Security**:+Understanding+and+mitigating+browser+vulnerabilities.;-+**Browser+Extensions**:+Developing+and+managing+browser+extensions+for+enhanced+functionality.;-+**Web+Performance**:+Optimizing+websites+for+faster+load+times+and+better+performance.;-+**Cross-Browser+Compatibility**:+Ensuring+websites+work+seamlessly+across+different+browsers.)
-
-
+- **<span style="color:#00FF00">Browser Security</span>**: Understanding and mitigating browser vulnerabilities.
+- **<span style="color:#00FF00">Browser Extensions</span>**: Developing and managing browser extensions for enhanced functionality.
+- **<span style="color:#00FF00">Web Performance</span>**: Optimizing websites for faster load times and better performance.
+- **<span style="color:#00FF00">Cross-Browser Compatibility</span>**: Ensuring websites work seamlessly across different browsers.
 
 ## 📊 GitHub Stats
 
