@@ -1,21 +1,15 @@
-# Hi there, I'm gnukeith 👋
+![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=00FF00&random=false&width=435&lines=Haiiiii+I'm+gnukeith)
 
 I'm a security researcher passionate about FOSS.
 
-![Profile views](https://img.shields.io/github/watchers/gnukeith/gnukeith?label=Profile%20views&style=social)
-![GitHub followers](https://img.shields.io/github/followers/gnukeith?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/gnukeith?style=social)
-
 ## 🖼️ About Me
 
-![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=00FF00&random=false&width=435&lines=Haiiiii+I'm+gnukeith)
-
-- 🔭 I’m currently working on [Project]
-- 🌱 I’m currently learning [Technology/Skill]
-- 👯 I’m looking to collaborate on [Project/Task]
-- 💬 Ask me about JavaScript, Python, Rust, Go, HTML, and browsers
-- 📫 How to reach me: gnukeith@example.com
-- ⚡ Fun fact: I love hiking and outdoor adventures.
+- 📫 How to reach me: You don't, leave me alone
+- 📚 I read documentation on the daily
+- 🐧 I use Linux
+- 🤖 I am deeply into AI
+- 🛡️ Heavily focus on security
+- 🔒 Privacy
 
 ## 🛠️ Skills
 
@@ -37,27 +31,3 @@ I have extensive knowledge and experience with various web browsers. Here's a li
 
 - [Twitter](https://x.com/gnukeith)
 - [Mastodon](https://mastodon.social/@keith684)
-
-## 💻 Projects
-
-### [Cool Project](https://github.com/gnukeith/cool-project)
-![Cool Project Image](https://user-images.githubusercontent.com/123456789/your-project-image.png)
-**Description**: An amazing project that solves problems.
-
-**Tech stack**: React, Node.js, MongoDB
-
----
-
-## 📖 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 🗂️ Portfolio
-
-### [Portfolio Project](https://github.com/gnukeith/portfolio-project)
-![Portfolio Project Image](https://user-images.githubusercontent.com/123456789/your-project-image.png)
-**Description**: A showcase of my work.
-
-**Tech stack**: HTML, CSS, JavaScript
-
----
