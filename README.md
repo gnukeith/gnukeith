@@ -23,6 +23,14 @@ I'm a security researcher passionate about FOSS.
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=00FF00&random=false&width=435&lines=Python;HTML;CSS;JS;C%23)](https://zeusteam.dev/)
 
+<p style="color: #00FF00; font-family: monospace; text-align: center;">
+  <span>★</span>
+  <span style="display: inline-block; width: 80%; height: 1px; background-color: #00FF00; vertical-align: middle;"></span>
+  <span>★</span>
+  <br>
+  <span style="color: #00FF00; font-family: monospace; text-align: center;">Haiiiii I'm gnukeith</span>
+</p>
+
 ## 🌐 Browser Expertise
 
 I have extensive knowledge and experience with various web browsers. Here's a little about what I can help with:
@@ -39,3 +47,27 @@ I have extensive knowledge and experience with various web browsers. Here's a li
 
 - [Twitter](https://x.com/gnukeith)
 - [Mastodon](https://mastodon.social/@keith684)
+
+## 💻 Projects
+
+### [Cool Project](https://github.com/gnukeith/cool-project)
+![Cool Project Image](https://user-images.githubusercontent.com/123456789/your-project-image.png)
+**Description**: An amazing project that solves problems.
+
+**Tech stack**: React, Node.js, MongoDB
+
+---
+
+## 📖 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🗂️ Portfolio
+
+### [Portfolio Project](https://github.com/gnukeith/portfolio-project)
+![Portfolio Project Image](https://user-images.githubusercontent.com/123456789/your-project-image.png)
+**Description**: A showcase of my work.
+
+**Tech stack**: HTML, CSS, JavaScript
+
+---
