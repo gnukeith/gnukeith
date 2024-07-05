@@ -7,29 +7,19 @@ I'm a security researcher passionate about FOSS.
 ![Twitter Follow](https://img.shields.io/twitter/follow/gnukeith?style=social)
 
 ## 🖼️ About Me
-<p align="left">
-  <img src="https://github.com/gnukeith.png" alt="gnukeith's profile picture" width="200" height="200" style="margin-right: 20px;">
-  <ul>
-    <li>🔭 I’m currently working on [Project]</li>
-    <li>🌱 I’m currently learning [Technology/Skill]</li>
-    <li>👯 I’m looking to collaborate on [Project/Task]</li>
-    <li>💬 Ask me about JavaScript, Python, Rust, Go, HTML, and browsers</li>
-    <li>📫 How to reach me: gnukeith@example.com</li>
-    <li>⚡ Fun fact: I love hiking and outdoor adventures.</li>
-  </ul>
-</p>
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Haiiiii+I'm+gnukeith)](https://zeusteam.dev/)
+
+- 🔭 I’m currently working on [Project]
+- 🌱 I’m currently learning [Technology/Skill]
+- 👯 I’m looking to collaborate on [Project/Task]
+- 💬 Ask me about JavaScript, Python, Rust, Go, HTML, and browsers
+- 📫 How to reach me: gnukeith@example.com
+- ⚡ Fun fact: I love hiking and outdoor adventures.
 
 ## 🛠️ Skills
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=00FF00&random=false&width=435&lines=Python;HTML;CSS;JS;C%23)](https://zeusteam.dev/)
-
-<p style="color: #00FF00; font-family: monospace; text-align: center;">
-  <span>★</span>
-  <span style="display: inline-block; width: 80%; height: 1px; background-color: #00FF00; vertical-align: middle;"></span>
-  <span>★</span>
-  <br>
-  <span style="color: #00FF00; font-family: monospace; text-align: center;">Haiiiii I'm gnukeith</span>
-</p>
 
 ## 🌐 Browser Expertise
 
