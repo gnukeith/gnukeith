@@ -26,10 +26,31 @@ fn main() {
 ## 🌐 Browser Expertise
 
 I have extensive knowledge and experience with various web browsers. Here's a little about what I can help with:
-- **Browser Security**: Understanding and mitigating browser vulnerabilities.
-- **Browser Extensions**: Developing and managing browser extensions for enhanced functionality.
-- **Web Performance**: Optimizing websites for faster load times and better performance.
-- **Cross-Browser Compatibility**: Ensuring websites work seamlessly across different browsers.
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: "JetBrains Mono", monospace; font-size: 16px; fill: white; }
+    .cursor { font-family: "JetBrains Mono", monospace; font-size: 16px; fill: lime; }
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      50.01%, 100% { opacity: 0; }
+    }
+  </style>
+  <rect width="100%" height="100%" fill="black" />
+  <text x="10" y="20" class="text">I have extensive knowledge and experience with various web browsers.</text>
+  <text x="10" y="40" class="text">Here's a little about what I can help with:</text>
+  <text x="10" y="60" class="text">- Browser Security: Understanding and mitigating browser vulnerabilities.</text>
+  <text x="10" y="80" class="text">- Browser Extensions: Developing and managing browser extensions for enhanced functionality.</text>
+  <text x="10" y="100" class="text">- Web Performance: Optimizing websites for faster load times and better performance.</text>
+  <text x="10" y="120" class="text">- Cross-Browser Compatibility: Ensuring websites work seamlessly across different browsers.</text>
+  <text x="10" y="140" class="cursor">|</text>
+  <animate
+    xlink:href="#cursor"
+    attributeName="opacity"
+    values="1;0;1"
+    dur="1s"
+    repeatCount="indefinite" />
+</svg>
+
 
 ## 📊 GitHub Stats
 
