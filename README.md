@@ -21,7 +21,7 @@ I'm a [security researcher] passionate about [FOSS].
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myusername&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnukeith&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
 
