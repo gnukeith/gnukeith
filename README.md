@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm [gnukeith] 👋
 
-<!--
-**gnukeith/gnukeith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [security researcher] passionate about [FOSS]. 
 
-Here are some ideas to get you started:
+![Profile views](https://gpvc.arturio.dev/gnukeith)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on [Project]
+- 🌱 I’m currently learning [Technology/Skill]
+- 👯 I’m looking to collaborate on [Project/Task]
+- 💬 Ask me about [Topic]
+- 📫 How to reach me: [Email]
+- ⚡ Fun fact: [Fun Fact]
+
+## 🛠️ Skills
+
+- **Languages**: [Languages]
+- **Frameworks**: [Frameworks]
+- **Tools**: [Tools]
+
+## 📊 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myusername&show_icons=true&theme=radical)
+
+## 📫 Connect with me
+
+- [Twitter](https://twitter.com/myusername)
+- [LinkedIn](https://linkedin.com/in/myusername)
+
+## 💻 Projects
+
+- [Project 1](https://github.com/myusername/project1)
+- [Project 2](https://github.com/myusername/project2)
+
