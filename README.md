@@ -2,14 +2,22 @@
 
 I'm a security researcher passionate about FOSS.
 
-## 🖼️ About Me
+```rust
+fn main() {
+    let about_me = [
+        "📫 How to reach me: You don't, leave me alone",
+        "📚 I read documentation on the daily",
+        "🐧 I use Linux",
+        "🤖 I am deeply into AI",
+        "🛡️ Heavily focus on security",
+        "🔒 Privacy",
+    ];
 
-- 📫 How to reach me: You don't, leave me alone
-- 📚 I read documentation on the daily
-- 🐧 I use Linux
-- 🤖 I am deeply into AI
-- 🛡️ Heavily focus on security
-- 🔒 Privacy
+    for info in about_me.iter() {
+        println!("{}", info);
+    }
+}
+```
 
 ## 🛠️ What languages i program in
 
