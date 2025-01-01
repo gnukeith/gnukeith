@@ -1,4 +1,5 @@
 ![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=00FF00&random=false&width=435&lines=Haiiiii+I'm+gnukeith)
 
-<img src="img/2b.gif" alt="2B" style="display: inline-block; width: 45%; height: 400px; object-fit: cover;"> <img src="img/akame.gif" alt="Akame ga Kill GIF" style="display: inline-block; width: 45%; height: 400px; object-fit: cover;">
-<img src="img/ryuk.gif" alt="Ryuk" style="display: inline-block; width: 45%; height: 400px; object-fit: cover;"> <img src="img/zero_two.gif" alt="Zero Two" style="display: inline-block; width: 45%; height: 400px; object-fit: cover;">
+<div align="center">
+  ![2B](img/2b.gif)
+</div>
