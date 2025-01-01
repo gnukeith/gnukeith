@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Iye29H39h7qVbgY/giphy.gif">
+  <img src="img/2b.gif" alt="2B">
 </p>
