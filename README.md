@@ -5,3 +5,6 @@
   <img src="https://media.giphy.com/media/loXSLhmBsORXaOBXpH/giphy.gif" alt="Akame ga Kill GIF">
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/l0Iye29H39h7qVbgY/giphy.gif" alt="Anime GIF">
+</div>
