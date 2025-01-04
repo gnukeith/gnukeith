@@ -1,6 +1,3 @@
-![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=FFFFFF&random=false&width=435&lines=Haiiiii+I'm+gnukeith.)
-
-
 <div align="center">
 <pre>
 ██╗   ██╗ ██████╗ ██████╗ ██╗  ██╗ █████╗ 
