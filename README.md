@@ -7,8 +7,9 @@
    ██║   ╚██████╔╝██║  ██║██║  ██║██║  ██║
    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 </pre>
+
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=1100&pause=750&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=140&lines=YoRHa+Unit+Status:;Name:+gnukeith;Type:+D+(Developer);ID:+9;Purpose:+Github+Repository+Maintenance" alt="YoRHa Status">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&color=FFFFFF&center=true&vCenter=true&width=400&height=50&lines=[YoRHa+Unit+2B:+Boot+Sequence+Initiated];[BLACK+BOX+TEMPERATURE:+NORMAL];[MEMORY+UNIT:+GREEN];[TACTICAL+SUPPORT:+ONLINE];[EXECUTING+PROTOCOL]">
 </p>
 <p>
   <img src="img/2b.gif" alt="2B">
