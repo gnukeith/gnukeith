@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=140&lines=YoRHa+Unit+Status:;Name:+gnukeith;Type:+D+(Developer);ID:+9;Purpose:+Github+Repository+Maintenance" alt="YoRHa Status">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=140&lines=YoRHa+Unit+Status:;Name:+gnukeith;Type:+D+(Developer);ID:+9;Purpose:+Github+Repository+Maintenance" alt="YoRHa Status">
 </p>
 
 <p align="center">
@@ -28,8 +28,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnukeith&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Tactical Support Unit Analysis">
 </p>
-
-```plaintext
-[TRANSMISSION END]
-```
 </div>
