@@ -30,7 +30,7 @@
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&height=100&repeat=false&lines=[ACCESSING+YoRHa+DATABASE...];Developer+Unit+D9+::+Systems+Check;01000100 01000101 01010110+PROTOCOL+ACTIVE;.....Repository+Maintenance+Mode.....;[Project+YoRHa+::+Forever+In+Progress]" alt="YoRHa System Interface">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&repeat=false&lines=[EXECUTING+FINAL+PROTOCOL];.............................;Everything+that+lives+is+designed+to+end;We+are+perpetually+trapped+in+a+never-ending;spiral+of+life+and+death;Is+this+a+curse%3F+Or+some+kind+of+punishment%3F;.............................;[POD_153:+CONSCIOUSNESS+DATA+BACKED+UP];[POD_042:+ARCHIVE+PRESERVATION+COMPLETE];[GLORY+TO+MANKIND]" alt="NieR: Automata Quote">
 </p>
 
 </div>
