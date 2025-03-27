@@ -16,7 +16,7 @@
 </p>
 <p>
   <a href="https://github.com/gnukeith">
-    <img src="https://github-readme-stats.vercel.app/api?username=gnukeith&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff&width=600&height=200" alt="Operation Record - gnukeith">
+    <img src="https://github-readme-stats.vercel.app/api?username=gnukeith&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Operation Record - gnukeith">
   </a>
 </p>
 <p>
