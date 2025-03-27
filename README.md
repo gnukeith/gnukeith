@@ -14,29 +14,14 @@
 <p>
   <img src="img/2b.gif" alt="2B">
 </p>
-
-<!-- Table for Side-by-Side Stats and Languages -->
-<table align="center">
-  <tr>
-    <td>
-      <!-- GitHub Stats Card -->
-      <a href="https://github.com/gnukeith">
-        <img src="https://github-readme-stats.vercel.app/api?username=gnukeith&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Operation Record - gnukeith">
-      </a>
-    </td>
-    <td>
-      <!-- Top Languages Card -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnukeith&layout=compact&theme=graywhite&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
-<!-- Activity Graph -->
+<p>
+  <a href="https://github.com/gnukeith">
+    <img src="https://github-readme-stats.vercel.app/api?username=gnukeith&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Operation Record - gnukeith">
+  </a>
+</p>
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnukeith&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Tactical Support Unit Analysis">
 </p>
-
-<!-- Typing SVG Quote -->
 <p>
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&repeat=true&lines=[EXECUTING+FINAL+PROTOCOL];.............................;Everything+that+lives+is+designed+to+end;We+are+perpetually+trapped+in+a+never-ending;spiral+of+life+and+death;Is+this+a+curse%3F+Or+some+kind+of+punishment%3F;.............................;[POD_153:+CONSCIOUSNESS+DATA+BACKED+UP];[POD_042:+ARCHIVE+PRESERVATION+COMPLETE];[GLORY+TO+MANKIND]" alt="NieR: Automata Quote">
 </p>
