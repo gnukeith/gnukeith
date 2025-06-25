@@ -4,6 +4,6 @@
 
 <br>
 
-<img src="img/rei.gif" alt="Rei Ayanami">
+<img src="img/rei.jpg" alt="Rei Ayanami">
 
 </div>
