@@ -1,13 +1,3 @@
-<div align="center">
-<pre>
-██████╗ ███████╗██╗    ██╗   ██╗ ██████╗ ██████╗ ██╗  ██╗ █████╗ 
-██╔══██╗██╔════╝██║    ╚██╗ ██╔╝██╔═══██╗██╔══██╗██║  ██║██╔══██╗
-██████╔╝█████╗  ██║     ╚████╔╝ ██║   ██║██████╔╝███████║███████║
-██╔══██╗██╔══╝  ██║      ╚██╔╝  ██║   ██║██╔══██╗██╔══██║██╔══██║
-██║  ██║███████╗██║       ██║   ╚██████╔╝██║  ██║██║  ██║██║  ██║
-╚═╝  ╚═╝╚══════╝╚═╝       ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-</pre>
-
 <p>
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&color=87CEEB&center=true&vCenter=true&width=400&height=50&lines=[EVA+Unit+00:+Pilot+Synchronization];[ENTRY+PLUG+DEPTH:+OPTIMAL];[LCL+PRESSURE:+NORMAL];[A.T.+FIELD:+STABLE];[INITIATING+NEURAL+LINK]">
 </p>
